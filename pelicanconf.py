@@ -32,7 +32,8 @@ EXTRA_PATH_METADATA = {
     #'extra/robots.txt': {'path': 'robots.txt'},
     # todo: add favicon
     'extra/favicon.ico': {'path': 'favicon.ico'},
-    'extra/custom.css': {'path': 'static/custom.css'}
+    'extra/custom.css': {'path': 'static/custom.css'},
+    'extra/CNAME': {'path': 'CNAME'},
 }
 
 # Blogroll
