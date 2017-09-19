@@ -6,6 +6,10 @@ addons:
   apt:
     packages:
     - optipng
+env:
+  global:
+  # openradar-bot
+  - secure: "eZQF/n5xYbr10rqkLr/yoDBpdf+Bu9JW1unPorUgLt3fajtXBFHO2H49dLsLmRCaIPnW6iFLonvVApuZNo4vx/sjQPfw+2mvUkCIX7KN4Od9CibH6vrJeSZZSGeSomWNYa0rKpLT8T+i1iRz1DJO+uMrVQ3+A6HCxAJOvfceD+7PwSzRQvowa2YuH3TJ+zuWa3rKA82nruQU7VlaNXmVBzQLccJ3FiJg7+rJHMm9zZuXU0cTxLCFB7okHhQErL9uiXcPcsNG/0U8k8zZZvDxCqWlavXmaK8dO9pVQsVva4NVcrB56nOhADB2lGvLjPysfQ0Pg3Wln7qmSTUQXWsALCF2qsMiMlyuP7uRBRKuei40g3yyYYphlLZREl7lBp4wgvL0s9972Cldx8NiuYaJ8U6H7haMpVvc+dRx4JhPxyR0FK219ARJg/seHyWV3Jp4HWwDyB/CT6LH4Yq+0BrmF1GLpn9/ep13XQR+pZB4IsFHXMuJM4UCPc/Zy97maCM+ZGHkGf7tIQgZdNI8o0SErVVbV2x97Srmsqjx79/SV70WPpgADQfGI3Nna16dZEYANLtU0wZx0Zy5+vZUMWnkpLtbiH4J5plezfT57gxMEWt48PilNcEz4UAL6PXy7JzIkFKznRNzTRt93SVdz2wZ15kRV/wZkYiEtCRxR4o2XRk="
 python:
 - 2.7
 install:
@@ -19,6 +23,3 @@ notifications:
 before_install:
 - git submodule update --init --recursive
 after_success: make github
-env:
-  global:
-  secure: "eZQF/n5xYbr10rqkLr/yoDBpdf+Bu9JW1unPorUgLt3fajtXBFHO2H49dLsLmRCaIPnW6iFLonvVApuZNo4vx/sjQPfw+2mvUkCIX7KN4Od9CibH6vrJeSZZSGeSomWNYa0rKpLT8T+i1iRz1DJO+uMrVQ3+A6HCxAJOvfceD+7PwSzRQvowa2YuH3TJ+zuWa3rKA82nruQU7VlaNXmVBzQLccJ3FiJg7+rJHMm9zZuXU0cTxLCFB7okHhQErL9uiXcPcsNG/0U8k8zZZvDxCqWlavXmaK8dO9pVQsVva4NVcrB56nOhADB2lGvLjPysfQ0Pg3Wln7qmSTUQXWsALCF2qsMiMlyuP7uRBRKuei40g3yyYYphlLZREl7lBp4wgvL0s9972Cldx8NiuYaJ8U6H7haMpVvc+dRx4JhPxyR0FK219ARJg/seHyWV3Jp4HWwDyB/CT6LH4Yq+0BrmF1GLpn9/ep13XQR+pZB4IsFHXMuJM4UCPc/Zy97maCM+ZGHkGf7tIQgZdNI8o0SErVVbV2x97Srmsqjx79/SV70WPpgADQfGI3Nna16dZEYANLtU0wZx0Zy5+vZUMWnkpLtbiH4J5plezfT57gxMEWt48PilNcEz4UAL6PXy7JzIkFKznRNzTRt93SVdz2wZ15kRV/wZkYiEtCRxR4o2XRk="
