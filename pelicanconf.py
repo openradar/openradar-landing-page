@@ -27,7 +27,7 @@ BOOTSTRAP_FLUID = False
 #TRANSLATION_FEED_ATOM = None
 
 CUSTOM_CSS = 'static/custom.css'
-STATIC_PATHS = ['extra/custom.css', 'extra/favicon.ico', 'images', 'templates']
+STATIC_PATHS = ['extra', 'images', 'templates']
 EXTRA_PATH_METADATA = {
     #'extra/robots.txt': {'path': 'robots.txt'},
     # todo: add favicon
