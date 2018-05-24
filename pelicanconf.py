@@ -132,5 +132,6 @@ MENUITEMS = (
     ('Community', '/community/'),
     ('News', '/category/news'),
     ('Virtual Machine', '/vm-docs/'),
+    ('Open data', '/opendata/'),
 )
 

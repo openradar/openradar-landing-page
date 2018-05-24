@@ -8,15 +8,24 @@ Tags: project, devel, python
 
 ## Quick description
 
-wradlib is an Open Source Python library that aims at providing functions for the full radar processing chain - reading various formats, error correction and quality control, compositing, rain gauge adjustment, and verification.
+[wradlib](https://wradlib.org/) was one of the first open source software solutions to support all essential steps of the weather radar processing chain. Since 2011, wradlib has evolved to be a professional solution for interactive weather radar data analysis and operational processing, with a large international user community in academia, government agencies, and the private sector. The [user forum](https://groups.google.com/forum/?fromgroups#!forum/wradlib-users) with more than 170 active members from all around the world provides an agile platform for exchange and support.
+
+![wradlib sample image]({filename}../images/wradlib_sample.png)
 
 ## Homepage
 
-<http://wradlib.org/>
+<https://wradlib.org/>
 
-## Code Repository
+## Code Repositories
 
+### The wradlib package
 <https://github.com/wradlib/wradlib>
+
+### wradlib notebooks
+<https://github.com/wradlib/wradlib-notebooks>
+
+### Sample data
+<https://github.com/wradlib/wradlib-data>
 
 ## Software Documentation
 
@@ -39,9 +48,6 @@ Linux, Mac, Windows
 
 ## Type of software
 API/Library
-
-## Further details
-N/A
 
 ## References
 Heistermann, M., Jacobi, S., Pfaff, T. (2013): Technical Note: An open source library for processing weather radar data (wradlib). Hydrol. Earth Syst. Sci., 17, 863-871, [doi:10.5194/hess-17-863-2013](http://dx.doi.org/10.5194/hess-17-863-2013).
