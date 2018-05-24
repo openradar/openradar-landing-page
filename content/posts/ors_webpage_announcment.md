@@ -1,5 +1,5 @@
 ---
-Title: OpenRadarScience Webpage Online
+Title: openradarscience.org is online
 Date: 2017-09-19 00:00
 Category: News
 Authors: openradar
