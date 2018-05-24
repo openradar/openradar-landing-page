@@ -4,7 +4,7 @@ url: home/
 save_as: index.html
 ---
 
-A collaborative platform for free and open source community software for weather radar data processing.
+A community platform for free and open source weather radar software.
 
 ![image home](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Norman_Doppler_Radar_-_NOAA.jpg/640px-Norman_Doppler_Radar_-_NOAA.jpg "Norman Weather Radar")
 

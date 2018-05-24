@@ -4,7 +4,7 @@ title: Community
 
 ## Open Science 
 
-Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society, amateur or professional [Wikipedia](https://en.wikipedia.org/wiki/Open_science). 
+Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society, amateur or professional ([Wikipedia](https://en.wikipedia.org/wiki/Open_science)). 
 
 ![open science](https://upload.wikimedia.org/wikipedia/commons/9/9c/Open_Science_-_Prinzipien.png "Components of Open Science")
 
