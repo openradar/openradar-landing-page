@@ -6,16 +6,21 @@ Title: List of open weather radar data repositories
 
 
 ### German Weather Service (DWD)
-
 <https://opendata.dwd.de>
 
 
 ### National Oceanic and Atmospheric Administration (NOAA)
-
 <https://www.ncdc.noaa.gov/data-access/radar-data>
 
 
-### wradlib example data
+### Royal Meteorological Institute Belgium (RMI)
+<http://opendata.meteo.be/>
 
+
+### Royal Netherlands Meteorological Institute (KNMI)
+<https://data.knmi.nl/datasets?q=radar>
+
+
+### wradlib example data
 <https://github.com/wradlib/wradlib-data>
 
