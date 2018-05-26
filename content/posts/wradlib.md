@@ -50,5 +50,5 @@ Linux, Mac, Windows
 API/Library
 
 ## References
-Heistermann, M., Jacobi, S., Pfaff, T. (2013): Technical Note: An open source library for processing weather radar data (wradlib). Hydrol. Earth Syst. Sci., 17, 863-871, [doi:10.5194/hess-17-863-2013](http://dx.doi.org/10.5194/hess-17-863-2013).
+Heistermann, M., Jacobi, S., Pfaff, T. (2013): Technical Note: An open source library for processing weather radar data (wradlib). Hydrol. Earth Syst. Sci., 17, 863-871, [doi:10.5194/hess-17-863-2013](https://doi.org/10.5194/hess-17-863-2013).
 
