@@ -1,14 +1,16 @@
 ---
-Title: baltrad
-Date: 2017-09-16 00:00
+Title: BALTRAD
+Date: 2018-05-28 00:00
 Category: Projects
 Authors: openradar
-Tags: project, devel, c++, java, python
+Tags: project, devel, c, java, python
 ---
 
 ## Quick description
 
 BALTRAD offers software for exchanging weather radar data in real time, and processing data using a common "toolbox" of algorithms. The data exchange functionality can be used stand-alone, as can the toolbox. While the focus is on creating an operational system, the design is also intended to help bridge the gap between research and operational communities.
+
+![baltrad sample image]({filename}../images/BALTRAD-logo-small.png)
 
 ## Homepage
 
@@ -16,7 +18,7 @@ BALTRAD offers software for exchanging weather radar data in real time, and proc
 
 ## Code Repository
 
-<http://git.baltrad.eu>
+<http://git.baltrad.eu/git>
 
 ## Software Documentation
 
@@ -24,6 +26,7 @@ BALTRAD offers software for exchanging weather radar data in real time, and proc
 
 ## User group or forum page
 <http://git.baltrad.eu/trac/wiki/cookbook>
+<https://groups.google.com/forum/#!forum/baltrad>
 
 ## License model
 GNU Lesser General Public License (LGPL)
@@ -32,7 +35,7 @@ GNU Lesser General Public License (LGPL)
 2012
 
 ## Main programming laguage(s)
-C/C++, Java, Python
+C, Java, Python
 
 ## Supported platforms
 Linux, Mac
@@ -44,5 +47,4 @@ Application & API
 N/A
 
 ## References
-Michelson D., Koistinen J., Peltonen T., Szturc J., and Rasmussen M.R., 2012: Advanced weather radar networking with BALTRAD+. Proc. ERAD 2012. Météo France, Toulouse, France. URL: <http://www.meteo.fr/cic/meetings/2012/ERAD/extended_abs/NET_073_ext_abs.pdf>
-
+Michelson, D., Henja, A., Ernes, S., Haase, G., Koistinen, J., Ośródka, K., Peltonen, T., Szewczykowski, M., and Szturc, J., (2018). BALTRAD Advanced Weather Radar Networking. Journal of Open Research Software. 6(1), p. 12. DOI: <http://doi.org/10.5334/jors.193>

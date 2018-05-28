@@ -10,7 +10,7 @@ Title: Open source weather radar software
 
 
 ## Related Projects
-* [Baltrad]({filename}../posts/baltrad.md)
+* [BALTRAD]({filename}../posts/baltrad.md)
 * [ARM-PyArt]({filename}../posts/arm-pyart.md)
 * [wradlib]({filename}../posts/wradlib.md)
 * [RSL]({filename}../posts/rsl.md)
