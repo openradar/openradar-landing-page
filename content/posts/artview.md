@@ -39,6 +39,6 @@ Application & API
 Please see README for further information.
 
 ## References
-[doi:10.5281/zenodo.27358](http://dx.doi.org/10.5281/zenodo.27358)
+[doi:10.5281/zenodo.27358](https://doi.org/10.5281/zenodo.27358)
 
 
