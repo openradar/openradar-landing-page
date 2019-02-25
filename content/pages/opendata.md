@@ -13,10 +13,6 @@ Title: List of open weather radar data repositories
 <https://www.ncdc.noaa.gov/data-access/radar-data>
 
 
-### Royal Meteorological Institute Belgium (RMI)
-<http://opendata.meteo.be/>
-
-
 ### Royal Netherlands Meteorological Institute (KNMI)
 <https://data.knmi.nl/datasets?q=radar>
 
