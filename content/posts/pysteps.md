@@ -25,8 +25,7 @@ Tags: project, devel, python, nowcasting, opticalflow
 <https://github.com/pySTEPS/pysteps-data>
 
 ## Software Documentation
-
-<https://pysteps.github.io/pysteps/refmanual/>
+<https://pysteps.readthedocs.io>
 
 ## License model
 GPL
