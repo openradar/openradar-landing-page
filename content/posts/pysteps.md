@@ -2,7 +2,7 @@
 Title: pysteps
 Date: 2018-08-10 00:00
 Category: Projects
-Authors: Seppo Pulkkinen, Daniele Nerini, Loris Foresti
+Authors: PySteps developers
 Tags: project, devel, python, nowcasting, opticalflow
 ---
 
