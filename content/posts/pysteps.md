@@ -28,7 +28,7 @@ Tags: project, devel, python, nowcasting, opticalflow
 <https://pysteps.readthedocs.io>
 
 ## License model
-GPL
+BSD-3
 
 ## Year of first release
 2018
