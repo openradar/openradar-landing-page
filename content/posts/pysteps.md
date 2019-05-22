@@ -43,4 +43,4 @@ Linux, Mac, Windows
 API/Library
 
 ## Reference
-A reference publication is currently under work.
+Pulkkinen, S., D. Nerini, A. Perez Hortal, C. Velasco-Forero, U. Germann, A. Seed, and L. Foresti, 2019: Pysteps: an open-source Python library for probabilistic precipitation nowcasting (v1.0). Geosci. Model Dev. Discuss., doi:10.5194/gmd-2019-94, **in review**.
