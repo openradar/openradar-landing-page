@@ -2,7 +2,7 @@
 Title: pysteps
 Date: 2018-08-10 00:00
 Category: Projects
-Authors: Seppo Pulkkinen, Daniele Nerini, Loris Foresti
+Authors: PySteps developers
 Tags: project, devel, python, nowcasting, opticalflow
 ---
 
@@ -25,11 +25,10 @@ Tags: project, devel, python, nowcasting, opticalflow
 <https://github.com/pySTEPS/pysteps-data>
 
 ## Software Documentation
-
-<https://pysteps.github.io/pysteps/refmanual/>
+<https://pysteps.readthedocs.io>
 
 ## License model
-GPL
+BSD-3
 
 ## Year of first release
 2018
@@ -44,4 +43,4 @@ Linux, Mac, Windows
 API/Library
 
 ## Reference
-A reference publication is currently under work.
+Pulkkinen, S., D. Nerini, A. Perez Hortal, C. Velasco-Forero, U. Germann, A. Seed, and L. Foresti, 2019: Pysteps: an open-source Python library for probabilistic precipitation nowcasting (v1.0). Geosci. Model Dev. Discuss., doi:10.5194/gmd-2019-94, **in review**.
