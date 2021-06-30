@@ -15,6 +15,7 @@ Title: Open source weather radar software
 * [BALTRAD]({filename}../posts/baltrad.md)
 * [MMM-Py]({filename}../posts/mmm-py.md)
 * [MultiDop]({filename}../posts/multidop.md)
+* [Pyrad]({filename}../posts/pyrad.md)
 * [PyRadarMet]({filename}../posts/pyradarmet.md)
 * [pysteps]({filename}../posts/pysteps.md)
 * [PyTDA]({filename}../posts/pytda.md)
