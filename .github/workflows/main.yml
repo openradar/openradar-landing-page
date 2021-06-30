@@ -16,11 +16,12 @@ jobs:
         if: github.event_name == 'push'
         with:
           token: ${{ secrets.OPENRADARBOT_API_TOKEN }}
-          submodules: 'recursive'
       - uses: actions/checkout@v2
         if: github.event_name == 'pull_request'
-        with:
-          submodules: 'recursive'
+      - name: Update/Sync submodules
+        run: |
+          git submodule sync --recursive
+          git submodule update --recursive
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
