@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        if: github.event_name == 'push'
+        with:
+          token: ${{ secrets.OPENRADARBOT_API_TOKEN }}
+          submodules: 'recursive'
+      - uses: actions/checkout@v2
+        if: github.event_name == 'pull_request'
+        with:
+          submodules: 'recursive'
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Install optipng
+        run: sudo apt-get install optipng
+      - name: Install requirements
+        run: pip install -r requirements.txt
+      - name: Make html
+        run: make html
+      - name: Publish to openradar.github.io
+        if: github.event_name == 'push'
+        run: |
+          git config --global user.email "openradarbot@openradarscience.org"
+          git config --global user.name "openradarbot"
+          make github
