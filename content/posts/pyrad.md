@@ -64,4 +64,4 @@ Linux, Mac
 Application and API/Library
 
 ## References
-Figueras i Ventura, J., Lainer, M., Schauwecker, Z., Grazioli, J. and Germann, U., 2020. Pyrad: A Real-Time Weather Radar Data Processing Framework Based on Py-ART. Journal of Open Research Software, 8(1), p.28. DOI: http://doi.org/10.5334/jors.330
+Figueras i Ventura, J., Lainer, M., Schauwecker, Z., Grazioli, J. and Germann, U., 2020. Pyrad: A Real-Time Weather Radar Data Processing Framework Based on Py-ART. Journal of Open Research Software, 8(1), p.28. DOI: <http://doi.org/10.5334/jors.330>
