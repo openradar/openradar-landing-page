@@ -17,6 +17,7 @@ Title: Open source weather radar software
 * [MultiDop]({filename}../posts/multidop.md)
 * [Pyrad]({filename}../posts/pyrad.md)
 * [PyRadarMet]({filename}../posts/pyradarmet.md)
+* [PyScanCf]({filename}../posts/pyscancf.md)
 * [pysteps]({filename}../posts/pysteps.md)
 * [PyTDA]({filename}../posts/pytda.md)
 * [RadarTools for ArcGID]({filename}../posts/radartoolsarcgis.md)
