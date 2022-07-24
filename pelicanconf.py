@@ -69,7 +69,7 @@ MARKDOWN = {
   'extension_configs': {
         'markdown.extensions.codehilite': {'css_class': 'highlight'},
         'markdown.extensions.extra': {},
-        'markdown.extensions.headerid': {},
+        'markdown.extensions.meta': {},
   },
   'output_format': 'html5',
 }
@@ -79,10 +79,12 @@ TYPOGRIFY = True
 CC_LICENSE = "CC-BY-NC-SA"
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
-           'liquid_tags.youtube', 'liquid_tags.vimeo',
-           'liquid_tags.include_code', 'tipue_search',
-           'tag_cloud', 'i18n_subsites']
+PLUGINS = [
+    #'liquid_tags.img', 'liquid_tags.video',
+    #'liquid_tags.youtube', 'liquid_tags.vimeo',
+    #'liquid_tags.include_code', 'tipue_search',
+    #'tag_cloud',
+    'i18n_subsites']
 
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
