@@ -37,7 +37,7 @@ EXTRA_PATH_METADATA = {
 }
 
 # Blogroll
-LINKS = [('ERAD2016', '/erad2016/'), ('ERAD2018', '/erad2018/'),]
+LINKS = [('ERAD2016', '/erad2016/'), ('ERAD2018', '/erad2018/'), ('ERAD2022', '/erad2022/'),]
 
 # Social widget
 SOCIAL = (('GitHub', 'http://github.com/openradar'),
