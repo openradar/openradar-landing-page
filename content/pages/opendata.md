@@ -10,7 +10,7 @@ Title: List of open weather radar data repositories
 
 
 ### National Oceanic and Atmospheric Administration (NOAA)
-<https://www.ncdc.noaa.gov/data-access/radar-data>
+<https://registry.opendata.aws/noaa-nexrad/>
 
 
 ### Royal Netherlands Meteorological Institute (KNMI)
