@@ -7,16 +7,16 @@ Tags: project, devel, c
 ---
 
 ## Quick description
-NASA's Radar Software Library (RSL) was developed to support the Tropical Rainfall Measuring Mission (TRMM).  It is designed to read data from a variety of weather radar formats into a uniform structure, and provide tools for working with the data.  It is written in the C language.
+NASA's Radar Software Library (RSL) was developed to support the Tropical Rainfall Measuring Mission (TRMM). It is designed to read data from a variety of weather radar formats into a uniform structure, and provide tools for working with the data. It is written in the C language.
 
 ## Homepage
-<http://trmm-fc.gsfc.nasa.gov/trmm_gv/software/rsl/index.html>
+<https://trmm-fc.gsfc.nasa.gov/trmm_gv/software/rsl/>
 
 ## Code Repository
 N/A
 
 ## Software Documentation
-<http://trmm-fc.gsfc.nasa.gov/trmm_gv/software/rsl/index.html>
+<https://trmm-fc.gsfc.nasa.gov/trmm_gv/software/rsl/quick_ref.php>
 
 ## User group or forum page
 N/A

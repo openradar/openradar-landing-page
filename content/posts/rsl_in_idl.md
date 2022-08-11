@@ -10,13 +10,13 @@ Tags: project, devel, idl
 RSL in IDL is a package of routines for working with TRMM Ground Validation radar data. The programs and data structures are modeled on TRMM GV's C-based Radar Software Library (RSL), but are written in the Interactive Data Language (IDL). The idea is to provide the utility of RSL in an IDL environment.
 
 ## Homepage
-<http://trmm-fc/trmm_gv/software/rsl_in_idl/RSL_in_IDL.html>
+<https://trmm-fc.gsfc.nasa.gov/trmm_gv/software/rsl_in_idl/RSL_in_IDL.php>
 
 ## Code Repository
 N/A
 
 ## Software Documentation
-<http://trmm-fc/trmm_gv/software/rsl_in_idl/RSL_in_IDL.html>
+<https://trmm-fc.gsfc.nasa.gov/trmm_gv/software/rsl_in_idl/rsl_routines.php>
 
 ## User group or forum page
 N/A
