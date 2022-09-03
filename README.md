@@ -1,3 +1,5 @@
+This repository was archived on September 3, 2022. The sources of the openradarscience landing-page is now available at [openradar.github.io](https://github.com/openradar/openradar.github.io).
+
 openradarscience landing-page source
 ====================================
 
